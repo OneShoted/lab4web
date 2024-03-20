@@ -462,12 +462,12 @@ body{
   .image_social{
     display: flex;
     height: 50px;
-    margin: 2.5px -400px 12.5px 1135px;
+    margin: 2.5px -400px 12.5px 835px;
   }
   .image_social_2{
     display: flex;
     height: 75px;
-    margin: 2.5px -400px 12.5px 1000px;
+    margin: 2.5px -400px 12.5px 700px;
   }
   .rectangle_2{
       height: 450px;
